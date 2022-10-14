@@ -1,0 +1,11 @@
+.TodoContainer {
+  text-align: center;
+  height: 580px;
+  width: 700px;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 290px;
+  background-color: hwb(216 2% 27%);
+  align-self: center;
+  overflow: auto;
+}

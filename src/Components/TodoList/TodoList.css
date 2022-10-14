@@ -1,0 +1,13 @@
+h2 {
+    color: aliceblue;
+    background-color: rgb(31, 24, 24);
+    margin: 2px;    
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    padding: 0;
+}
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
