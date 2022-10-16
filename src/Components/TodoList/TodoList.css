@@ -1,0 +1,13 @@
+h2 {
+  color: rgb(10, 12, 13);
+  margin: 2px;
+}
+
+h1 {
+  color: rgb(4, 6, 7);
+  padding: 0;
+}
+
+.text-responsive {
+  font-size: calc(100% + 1vw + 1vh);
+}
